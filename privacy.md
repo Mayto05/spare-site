@@ -5,9 +5,9 @@ permalink: /privacy/
 
 # Spare — Privacy Policy
 
-Effective date: October 12, 2026
+Effective date: November 10, 2026
 
-Spare is a calorie counter for iPhone made by Kirill Shalankin. This policy explains what the app does with your data. The short version: nothing leaves your phone.
+Spare is a calorie counter for iPhone made by Anastasiia Shalankina. This policy explains what the app does with your data. The short version: nothing leaves your phone.
 
 ## What Spare collects
 
@@ -16,13 +16,14 @@ Nothing. Spare has no account, no sign-in, no analytics, no advertising and no c
 ## What Spare stores on your device
 
 - The calorie entries you type, with the time you added them and an optional name.
-- Your settings: daily goal, weekly budget switch, first day of the week, whether entries have names, whether Apple Health writing is on.
+- If you turn on the water tracker: each glass you log, with its size and time.
+- Your settings: daily goal, whether entries have names, water tracker settings (on or off, daily goal, glass size), whether Apple Health writing is on.
 
 This data is stored in the app's private container on your iPhone so that the app and its widgets can read it. It is included in your device backups (iCloud or computer) under Apple's own privacy terms, and it is deleted when you delete the app.
 
 ## Apple Health
 
-Writing to Apple Health is optional and off until you turn it on in Settings. When it is on, each entry is saved to Apple Health as dietary energy (calories consumed). Deleting an entry in Spare also deletes the sample Spare wrote.
+Writing to Apple Health is optional and off until you turn it on in Settings. When it is on, each entry is saved to Apple Health as dietary energy (calories consumed) and, if the water tracker is on, each glass as water. Deleting an entry or removing a glass in Spare also deletes the sample Spare wrote.
 
 Spare never reads any data from Apple Health. It does not request read access, and it does not use Health data for anything other than saving your own entries. Health data written by Spare stays in Apple Health and is governed by Apple's privacy terms; you can review or delete it in the Health app at any time.
 
@@ -40,4 +41,4 @@ If this policy changes, the new version will be published at this address with a
 
 ## Contact
 
-Kirill Shalankin — shalankinkv@gmail.com
+Anastasiia Shalankina — shalankinkv@gmail.com
